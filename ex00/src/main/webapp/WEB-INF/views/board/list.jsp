@@ -11,4 +11,4 @@
  <a href="view.do">1번</a>
  <a href="write.do">글 쓰기</a>
 </body> 	
-</html>
+</html> 
